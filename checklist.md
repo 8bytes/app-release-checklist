@@ -10,6 +10,10 @@
 
 This is to ensure we cover ourselves for any easily avoidable issues. 
 
+### GitHub
+
+Make sure you have the latest master branch 
+
 --
 
 ### View Controller life cycles
