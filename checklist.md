@@ -81,6 +81,7 @@ Test each major view in the app.
 - Orientation change
 - Upside-down orientation
 - Orientation lock 
+
 --
 
 ### Installation
